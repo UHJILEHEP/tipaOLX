@@ -1,5 +1,11 @@
 {
     "users":[
-        
+        {
+            "id":121768593,
+            "name":"Ivan",
+            "sirname":"Melnyk",
+            "photo_url":"https://avatars.githubusercontent.com/u/121768593?v=4",
+            "balance":0
+        }
     ]
 }
